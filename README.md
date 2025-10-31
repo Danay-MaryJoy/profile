@@ -15,4 +15,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danay-maryjoy&show_icons=true&locale=en" alt="danay-maryjoy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danay-maryjoy&" alt="danay-maryjoy" /></p>
